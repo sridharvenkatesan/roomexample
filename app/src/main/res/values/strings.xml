@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomExample</string>
+    <string name="show_stories">Show stories</string>
+    <string name="show_audios">Show Audios</string>
+    <string name="new_story">Create new story</string>
+    <string name="create_moments">Create new moments</string>
+    <string name="dialog_title">For which story?</string>
+    <string name="dialog_hint">Amount</string>
+    <string name="deleteall">Delete All</string>
+    <string name="promo">Find By Promo</string>
+</resources>
